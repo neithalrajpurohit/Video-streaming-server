@@ -1,0 +1,62 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Music",
+      "mediaLink": "lkIFF4maKMU",
+      "bucketId": 1
+    },
+    {
+      "id": 2,
+      "name": "Testing Card Four",
+      "mediaLink": "pEfrdAtAmqk",
+      "bucketId": 1
+    },
+    {
+      "name": "chef",
+      "mediaLink": "https://www.youtube.com/watch?v=EdftT8GMU1U",
+      "bucketId": "2",
+      "id": 3
+    },
+    {
+      "name": "news",
+      "mediaLink": "EdftT8GMU1U",
+      "bucketId": "4",
+      "id": 4
+    }
+  ],
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment Videos"
+    },
+    {
+      "id": 2,
+      "name": "Education Videos"
+    },
+    {
+      "name": "cooking",
+      "id": 3
+    },
+    {
+      "name": "music",
+      "id": 4
+    }
+  ],
+  "histories": [
+    {
+      "name": "Music",
+      "mediaLink": "lkIFF4maKMU",
+      "bucketId": 1,
+      "playedAt": "2023-03-27T11:51:04.893Z",
+      "id": 1
+    },
+    {
+      "name": "news",
+      "mediaLink": "EdftT8GMU1U",
+      "bucketId": "4",
+      "playedAt": "2023-03-27T11:51:43.341Z",
+      "id": 2
+    }
+  ]
+}
